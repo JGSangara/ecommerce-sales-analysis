@@ -4,10 +4,7 @@
 
 ## 📊 Project Overview
 
-Interactive Power BI dashboard analyzing Brazilian e-commerce sales data to track revenue trends, customer behavior, and satisfaction metrics. Built using SQL for data transformation and Power BI for visualization.
-
-**Tools:** SQL Server | Power BI | Power Query  
-**Dataset:** [Brazilian E-Commerce (Olist)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) - 99K orders (2016-2018)
+Interactive Power BI dashboard analyzing Brazilian e-commerce sales data to track revenue trends, customer behavior, and satisfaction metrics. The analysis processes 99K orders across 2 years using SQL for data transformation and Power BI for visualization, revealing critical insights including a 2.5% customer retention rate and identifying key growth opportunities.
 
 ---
 
