@@ -1,5 +1,3 @@
-# E-Commerce Sales Analysis
-
 ![Dashboard Preview](dashboard_screenshot.png)
 
 ## 📊 Project Overview
